@@ -165,7 +165,7 @@ Have questions or ideas? Join the discussion in the [#compose-web](https://kotli
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
 
 ---
 
